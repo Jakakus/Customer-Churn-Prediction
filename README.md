@@ -12,8 +12,5 @@ End-to-end machine learning solution for predicting customer churn in a subscrip
 ## Usage
 Describe how to run the code here.
 
-## Requirements
-List dependencies here (e.g., Python, Scikit-learn, Pandas, Matplotlib, Seaborn).
-
 ## License
 MIT 
